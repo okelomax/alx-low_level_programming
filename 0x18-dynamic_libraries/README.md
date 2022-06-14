@@ -1,4 +1,4 @@
-|0x17. C - Dynamic libraries|
+0x17. C - Dynamic libraries
 |--------------|
 
 Table of contents
