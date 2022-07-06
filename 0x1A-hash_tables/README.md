@@ -2,11 +2,13 @@
 ---------
 Description
 ------
-This Holberton School project is about hash tables in C. How to create and use one, how to deal with collisions. It also covers what makes a good hash function and what are the most common use for hash tables.
+This alx-Holberton School project is about hash tables in C. How to create and use one, how to deal with collisions. It also covers what makes a good hash function and what are the most common use for hash tables.
 
 Table of contents
 ----------
 |Files	|Desciption|
+|----|----|
+
 |hash_tables.h|	Header file containing the function prototypes and structs for this project|
 |0-hash_table_create.c|	C function that creates a hash table|
 |1-djb2.c|	C hash function implementing the djb2 algorithm|
